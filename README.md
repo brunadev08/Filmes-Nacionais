@@ -1,4 +1,4 @@
-🎬 Catálogo de Filmes Nacionais
+**🎬 Catálogo de Filmes Nacionais**
 
 Bem-vindo(a) ao projeto Filmes Nacionais! 🇧🇷
 
@@ -8,17 +8,17 @@ O site foi desenvolvido como parte de um exercício de desenvolvimento web, apli
 
 O cinema brasileiro possui uma longa história e diversas produções marcantes que fazem parte da cultura do país, desde obras antigas até produções contemporâneas.
 
-⚙️ Tecnologias Utilizadas
+**⚙️ Tecnologias Utilizadas**
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-HTML5 – Estrutura da página
+**HTML5 – Estrutura da página**
 
-CSS3 – Estilização e layout da interface
+**CSS3 – Estilização e layout da interface**
 
-JavaScript – Interatividade e funcionalidades da aplicação
+**JavaScript – Interatividade e funcionalidades da aplicação**
 
-✔️ Funcionalidades
+**✔️ Funcionalidades**
 
 🎬 Apresentação de filmes nacionais
 📱 Layout organizado e intuitivo
